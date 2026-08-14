@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.6](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.5...browser-unpack-v1.4.6) (2026-08-14)
+
+
+### Dependencies & maintenance
+
+* **deps:** pin dependency browser-pack to 6.1.3 ([#6](https://github.com/unabandoned/browser-unpack/issues/6)) ([f12e7ad](https://github.com/unabandoned/browser-unpack/commit/f12e7ad7b7df55337e1f250be94d9d656efdf786))
+
 ## [1.4.5](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.4...browser-unpack-v1.4.5) (2026-08-14)
 
 
