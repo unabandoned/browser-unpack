@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.5](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.4...browser-unpack-v1.4.5) (2026-08-14)
+
+
+### Bug Fixes
+
+* drop abandoned concat-stream for node:stream, alias browser-pack fork ([#4](https://github.com/unabandoned/browser-unpack/issues/4)) ([7239ae3](https://github.com/unabandoned/browser-unpack/commit/7239ae35b537832c1a5ec288f0da1838bbe650a7))
+
 ## [1.4.4](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.3...browser-unpack-v1.4.4) (2026-08-14)
 
 
