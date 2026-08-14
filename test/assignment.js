@@ -1,4 +1,4 @@
-var test = require('tape');
+var test = require('./tap-adapter');
 var unpack = require('../');
 var pack = require('browser-pack');
 var concat = require('concat-stream');
