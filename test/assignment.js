@@ -1,7 +1,6 @@
 var test = require('./tap-adapter');
 var unpack = require('../');
 var pack = require('browser-pack');
-var concat = require('concat-stream');
 var vm = require('vm');
 
 var fs = require('fs');
