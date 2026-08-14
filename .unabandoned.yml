@@ -1,0 +1,19 @@
+schema: 1
+
+package: "@unabandoned/browser-unpack"
+
+upstream:
+  repo: browserify/browser-unpack
+  reason: "unmaintained upstream in the browserify ecosystem — left idle while its dependency tree ages"
+
+summary: >-
+  Parses a bundle produced by browser-pack back into the JSON array of module
+  records it was built from — the inverse of browser-pack.
+
+why-forked: >-
+  A browserify companion tool that went unmaintained while its dependency tree
+  aged; forked so Renovate keeps that tree current for consumers.
+
+status: active
+
+tags: [browserify, unpack, bundle, debug]
