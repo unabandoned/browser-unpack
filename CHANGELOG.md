@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.4.7](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.6...browser-unpack-v1.4.7) (2026-08-15)
+
+
+### Dependencies & maintenance
+
+* add .unabandoned.yml dashboard metadata ([#8](https://github.com/unabandoned/browser-unpack/issues/8)) ([9da1798](https://github.com/unabandoned/browser-unpack/commit/9da1798155b5a95857a2c3f461a325160d31b0a9))
+* **deps:** update dependency browser-pack to v6.1.4 ([#13](https://github.com/unabandoned/browser-unpack/issues/13)) ([dc6249a](https://github.com/unabandoned/browser-unpack/commit/dc6249aa2cb4124c9501c1bb183e0317c2263a93))
+* **deps:** update unabandoned/.github digest to 88ce617 ([#9](https://github.com/unabandoned/browser-unpack/issues/9)) ([c8a2f71](https://github.com/unabandoned/browser-unpack/commit/c8a2f71c63048cdf8058a329ea768dd4c9a39232))
+* pin reusable workflows to the @unabandoned/.github v1.0.0 release ([#12](https://github.com/unabandoned/browser-unpack/issues/12)) ([6898047](https://github.com/unabandoned/browser-unpack/commit/689804725bfc9d07b097f5c755540d78f09dc5af))
+
 ## [1.4.6](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.5...browser-unpack-v1.4.6) (2026-08-14)
 
 
