@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.9](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.8...browser-unpack-v1.4.9) (2026-09-04)
+
+
+### Dependencies & maintenance
+
+* **deps:** update dependency browser-pack to v6.1.5 ([#19](https://github.com/unabandoned/browser-unpack/issues/19)) ([c700a1c](https://github.com/unabandoned/browser-unpack/commit/c700a1ccd6c02afb7ab782ec7aac8b42bcac9928))
+
 ## [1.4.8](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.7...browser-unpack-v1.4.8) (2026-08-28)
 
 
