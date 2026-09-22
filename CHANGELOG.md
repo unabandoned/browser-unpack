@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.4.9](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.8...browser-unpack-v1.4.9) (2026-09-22)
+
+
+### Dependencies & maintenance
+
+* **deps:** update dependency browser-pack to v6.1.5 ([#19](https://github.com/unabandoned/browser-unpack/issues/19)) ([c700a1c](https://github.com/unabandoned/browser-unpack/commit/c700a1ccd6c02afb7ab782ec7aac8b42bcac9928))
+* **deps:** update unabandoned/.github action to v1.0.4 ([#21](https://github.com/unabandoned/browser-unpack/issues/21)) ([9fbc187](https://github.com/unabandoned/browser-unpack/commit/9fbc1874c6663085d2fea2337576a42c0f3919d9))
+* **deps:** update unabandoned/.github action to v1.0.5 ([#22](https://github.com/unabandoned/browser-unpack/issues/22)) ([628d94a](https://github.com/unabandoned/browser-unpack/commit/628d94af1d05e79b47b4efcecb1f5bf1cd0ad5d4))
+* **deps:** update unabandoned/.github action to v1.1.0 ([#23](https://github.com/unabandoned/browser-unpack/issues/23)) ([19640f1](https://github.com/unabandoned/browser-unpack/commit/19640f19c4d553f238774bbb515d4d4b412a5115))
+
 ## [1.4.8](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.7...browser-unpack-v1.4.8) (2026-08-28)
 
 
