@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.10](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.9...browser-unpack-v1.4.10) (2026-09-23)
+
+
+### Bug Fixes
+
+* stop dev-only commits from cutting releases ([#26](https://github.com/unabandoned/browser-unpack/issues/26)) ([85a02ac](https://github.com/unabandoned/browser-unpack/commit/85a02acc18c7bbcdab1789457a9eefdea012f910))
+
 ## [1.4.9](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.8...browser-unpack-v1.4.9) (2026-09-22)
 
 
