@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.10](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.9...browser-unpack-v1.4.10) (2026-09-23)
+
+
+### Dependencies & maintenance
+
+* **deps:** update commitlint monorepo to v21.2.3 ([#24](https://github.com/unabandoned/browser-unpack/issues/24)) ([3d81944](https://github.com/unabandoned/browser-unpack/commit/3d81944d59146d54a95f5273affd7c29fa3e7705))
+
 ## [1.4.9](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.8...browser-unpack-v1.4.9) (2026-09-22)
 
 
