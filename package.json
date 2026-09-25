@@ -21,7 +21,7 @@
   "devDependencies": {
     "@commitlint/cli": "21.2.3",
     "@commitlint/config-conventional": "21.2.3",
-    "browser-pack": "npm:@unabandoned/browser-pack@6.1.5"
+    "browser-pack": "npm:@unabandoned/browser-pack@6.1.6"
   },
   "scripts": {
     "test": "node --test test/*.js",
