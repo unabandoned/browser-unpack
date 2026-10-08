@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.11](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.10...browser-unpack-v1.4.11) (2026-10-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency acorn to v8.19.0 ([#35](https://github.com/unabandoned/browser-unpack/issues/35)) ([24bb832](https://github.com/unabandoned/browser-unpack/commit/24bb832d3a1cb7afe18372c6c418f11908aebdd0))
+
 ## [1.4.10](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.9...browser-unpack-v1.4.10) (2026-09-23)
 
 

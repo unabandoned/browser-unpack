@@ -1,6 +1,6 @@
 {
   "name": "@unabandoned/browser-unpack",
-  "version": "1.4.10",
+  "version": "1.4.11",
   "files": [
     "CHANGELOG.md",
     "bin",
