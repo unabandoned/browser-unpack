@@ -4,9 +4,15 @@ var parse = require('../');
 var { Writable } = require('node:stream');
 var fs = require('fs');
 
-var minimist = require('minimist');
-var argv = minimist(process.argv.slice(2));
-if (argv.help || argv.h) {
+var { parseArgs } = require('node:util');
+// strict: false keeps the old minimist behaviour of ignoring unknown flags.
+var argv = parseArgs({
+    args: process.argv.slice(2),
+    options: { help: { type: 'boolean', short: 'h' } },
+    strict: false,
+    allowPositionals: true
+}).values;
+if (argv.help) {
     return fs.createReadStream(__dirname + '/usage.txt')
         .pipe(process.stdout)
     ;
