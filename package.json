@@ -15,8 +15,7 @@
     "node": ">=22.12"
   },
   "dependencies": {
-    "acorn": "8.19.0",
-    "minimist": "1.2.8"
+    "acorn": "8.19.0"
   },
   "devDependencies": {
     "@commitlint/cli": "21.2.3",
