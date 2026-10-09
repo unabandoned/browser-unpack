@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.12](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.11...browser-unpack-v1.4.12) (2026-10-09)
+
+
+### Dependencies & maintenance
+
+* parse CLI args with util.parseArgs instead of minimist ([#37](https://github.com/unabandoned/browser-unpack/issues/37)) ([86ed093](https://github.com/unabandoned/browser-unpack/commit/86ed093004eeeda5f46e054ffb2fac3c77261c3c))
+
 ## [1.4.11](https://github.com/unabandoned/browser-unpack/compare/browser-unpack-v1.4.10...browser-unpack-v1.4.11) (2026-10-08)
 
 
